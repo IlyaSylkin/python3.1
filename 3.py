@@ -5,4 +5,4 @@ for i in b:
     if len(i) > ln:
         print(i[: ln - 3] + "...")
     else:
-        print(i)
+        print(i, "fasdfasdfasfaf")
